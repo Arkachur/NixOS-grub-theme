@@ -1,0 +1,1 @@
+# NixOS-grub-theme
